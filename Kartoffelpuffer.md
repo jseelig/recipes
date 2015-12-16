@@ -1,4 +1,4 @@
-# Zutaten
+### Zutaten
 
 * 500 g Kartoffeln
 * 1 Zwiebel
@@ -6,7 +6,7 @@
 * Salz, Pfeffer
 * Öl zum Braten 
 
-# Zubereitung
+### Zubereitung
 
 Zubereitungszeit: 40 min / Arbeitszeit: 40 min
 
